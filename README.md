@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm @SynbioLuancesarca</h1>
-<h3 align="center">Biotechnology Student | Programming in Biological Languages | Data Science | Synthetic Biology</h3>
+<h3 align="left">Biotechnology Student | Programming in Biological Languages | Data Science | Synthetic Biology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
