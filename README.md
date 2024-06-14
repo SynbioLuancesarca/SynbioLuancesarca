@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm @SynbioLuancesarca</h1>
 <h3 align="center">Biotechnology Student | Programming in Biological Languages | Data Science | Synthetic Biology</h3>
